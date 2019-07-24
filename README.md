@@ -1,5 +1,9 @@
 # Data Positions at SCFHS
 
+This task I implemented took 3 day's to retrieve the data , I choose Riyadh Municipality because their website seems tobe more organized and has more data point's .
+I grapped the data and extract Date from a List of Strings Using Regex .
+the last problem to solve is to find the histgram and the for months .
+
 ## Data Visualization Specialist
 
 Thank you for your interest in our Data Visualization Specialist positions. Please create a [public tableau profile](https://public.tableau.com) with a visualization sample using [this data](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/). The dataset we picked reflects the kinds of data you will be dealing with at the position. Feel free to include your past work and visualizations in your tableau portfolio as well. Please complete your visualization sample in **72 hours**. Fill [this form](https://forms.gle/dxtxxXuMLcv7QXNe8) when you are done. If you have any questions, please raise an issue on this repo.

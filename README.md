@@ -2,7 +2,7 @@
 
 This task I implemented took 3 day's to retrieve the data , I choose Riyadh Municipality because their website seems tobe more organized and has more data point's .
 I grapped the data and extract Date from a List of Strings Using Regex .
-the last problem to solve is to find the histgram and the for months .
+the last problem to solve is to find the histgram for months .
 
 ## Data Visualization Specialist
 
